@@ -1,0 +1,7 @@
+streamlit
+pandas
+firebase_admin
+seaborn
+matplotlib.pyplot
+plotly.express
+plotly.graph_objects
